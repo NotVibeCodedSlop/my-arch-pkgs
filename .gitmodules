@@ -1,0 +1,9 @@
+[submodule "Paint.NET-ArchLinux-package"]
+	path = Paint.NET-ArchLinux-package
+	url = https://github.com/NotVibeCodedSlop/Paint.NET-ArchLinux-package
+[submodule "slimwaita"]
+	path = slimwaita
+	url = https://github.com/NotVibeCodedSlop/slimwaita
+[submodule "lib32-steam-stub"]
+	path = lib32-steam-stub
+	url = https://github.com/NotVibeCodedSlop/lib32-steam-stub
