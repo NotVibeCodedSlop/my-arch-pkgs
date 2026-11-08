@@ -7,3 +7,6 @@
 [submodule "lib32-steam-stub"]
 	path = lib32-steam-stub
 	url = https://github.com/NotVibeCodedSlop/lib32-steam-stub
+[submodule "mass-reencode"]
+	path = mass-reencode
+	url = https://github.com/NotVibeCodedSlop/mass-reencode.git
